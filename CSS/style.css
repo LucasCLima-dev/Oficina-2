@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    background-color: rgba(168, 246, 204, 0.699);
+    text-align: justify;
+}
+
+section {
+    padding: 50px;
+    text-align: justify;
+    justify-content: center;
+    background-color: rgb(156, 156, 156);
+    width: 1000px;
+    height: 100%;
+    border-radius: 50px;
+}
+
+img {
+    width: 50%;
+    height: auto; 
+}
+
+h1 {
+    padding: 10px;
+}
